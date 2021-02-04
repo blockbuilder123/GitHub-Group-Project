@@ -1,0 +1,18 @@
+/*Randy Sinz*/
+
+body {
+    margin-top: 140px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+header {
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+}
+p {
+    color: rgb(174, 223, 84);
+}
+img {
+    border:1pt solid #707077;
+}

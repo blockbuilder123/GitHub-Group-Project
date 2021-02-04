@@ -1,2 +1,3 @@
-# GitHub-Group-Project
-This is a group project
+# VSCPractic
+A basic practice website
+Showcases various forms of soda
